@@ -13,9 +13,9 @@ Vocabulary Challenge is a React-based language learning app that aims to improve
 To run this application locally, follow these steps:
 
 1. **Clone** this repository:
-   ```bash
-   git clone https://github.com/your-username/vocabulary-challenge.git
-   
+```bash
+git clone https://github.com/your-username/vocabulary-challenge.git
+```   
 2. **Navigate** to the project directory:
 ```bash
   cd vocabulary-challenge
