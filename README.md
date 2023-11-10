@@ -1,6 +1,6 @@
 # Vocabulary Challenge
 
-Vocabulary Challenge is a React-based language learning application aimed at improving English vocabulary in an interactive way. The app presents a series of English words alongside their Portuguese translations and example sentences. Users are prompted to translate the displayed Portuguese words into English, earning points for correct answers. The app also features a life system where incorrect answers result in the loss of a life, motivating users to aim for accuracy and higher scores.
+Vocabulary Challenge is a React-based language learning app that aims to improve English vocabulary interactively. The application contains a list of example words and phrases. Users are asked to translate words from Portuguese to English, earning points for correct answers. The app also has a life system where incorrect answers result in the loss of a life, motivating users to strive for accuracy and higher scores.
 
 ## Features
 
